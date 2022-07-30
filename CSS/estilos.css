@@ -6,3 +6,13 @@ body
     font-family: "algerian";
 }
 
+
+
+#footer
+{
+    background: #777;
+    color: greenyellow;
+    text-align: center;
+    padding: 0.5em;
+
+}
