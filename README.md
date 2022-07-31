@@ -10,3 +10,8 @@ un blog increible para el curso de git y github
 *Las multiples personalidades de Freddy 
 Creado por el increible cristobal Lopez 
 Recordatorio: **Este readme.md es un chiste**. Diseñado para ejemplificar la clase. No te lo tomes en serio, y si estás interesado mejor ve [a ver el curso] (https://platzi.com/cursos/git-github/ "a ver el curso")
+Creado por el increible cristobal Lopez
+Incluye ejemplos en linux windows y mac
+Disponible para cualquier edad 
+Recordatorio: **Este readme.md es 
+un chiste**. Diseñado para ejemplificar la clase. No te lo tomes en serio, y si estás interesado mejor ve [a ver el curso] (https://platzi.com/cursos/git-github/ "a ver el curso")
