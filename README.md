@@ -9,6 +9,7 @@ un blog increible para el curso de git y github
 *Los trucos locos del profesor
 *Las multiples personalidades de Freddy 
 Creado por el increible cristobal Lopez
-Incluye ejemplos en linux windows y mac 
+Incluye ejemplos en linux windows y mac
+Disponible para cualquier edad 
 Recordatorio: **Este readme.md es 
 un chiste**. Diseñado para ejemplificar la clase. No te lo tomes en serio, y si estás interesado mejor ve [a ver el curso] (https://platzi.com/cursos/git-github/ "a ver el curso")
